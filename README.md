@@ -20,10 +20,12 @@ To use `proxy-scraper-checker` in Termux, knowledge of the Unix command-line int
   ```bash
   bash <(curl -fsSL 'https://raw.githubusercontent.com/victorgeel/proxy-here-Noobs/modified/install-termux.sh')
   ```
-- Edit `~/proxy-scraper-checker/config.ini` to your preference using a text editor (vim/nano).
-- To run `proxy-scraper-checker` use the following command:
+- Edit `~/proxy-here-Noobs/config.ini` to your preference using a text editor (vim/nano).
+- `proxy-here-Noobs`Runဖို့..............   `ပထမ cmd ` (အဆင်မပြေရင် ဒုတိယ cmd သုံး):
   ```bash
   cd ~/proxy-here-Noobs && sh start-termux.sh
-  or
+  ```
+- `ဒုတိယ cmd` သူက ပို အဆင်ပြေတယ်:
+  ```bash
   cd /data/data/com.termux/files/home/proxy-here-Noobs && sh start-termux.sh
   ```
