@@ -29,3 +29,10 @@ To use `proxy-scraper-checker` in Termux, knowledge of the Unix command-line int
   ```bash
   cd /data/data/com.termux/files/home/proxy-here-Noobs && sh start-termux.sh
   ```
+- Socks5 proxy များ
+- proxies
+   ```
+   vim ~/proxy-here-Noobs/proxies/socks5.txt
+- 
+  
+
