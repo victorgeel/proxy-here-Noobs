@@ -389,7 +389,7 @@ class ProxyScraperChecker:
 
         logger.info(
             "Thank you for using "
-            "ProxycheckerForNoobs:)"
+            "ဘာတွေရှာတွေ့သွားလဲ:)"
         )
 
     def get_sorted_proxies(self) -> Dict[ProxyType, List[Proxy]]:
