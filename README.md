@@ -19,6 +19,7 @@ To use `proxy-scraper-checker` in Termux, knowledge of the Unix command-line int
 - Run the following command (it will automatically update Termux packages, install Python, and download and install `proxy-scraper-checker`):
   ```bash
   bash <(curl -fsSL 'https://raw.githubusercontent.com/victorgeel/proxy-here-Noobs/modified/install-termux.sh')
+  cd ~/proxy-here-Noobs && sh start-termux.sh
   ```
 - Edit `~/proxy-here-Noobs/config.ini` to your preference using a text editor (vim/nano).
 - `proxy-here-Noobs`Runဖို့..............   `ပထမ cmd ` (အဆင်မပြေရင် ဒုတိယ cmd သုံး):
