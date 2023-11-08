@@ -3,6 +3,7 @@ base_path=~
 path="${base_path}/proxy-here-Noobs"
 download_path="${PREFIX}/tmp/proxy-here-Noobs.zip"
 
+pkg install vim
 pkg upgrade --yes -o Dpkg::Options::='--force-confdef' &&
 pkg install --yes python python-pip &&
 if [ -d "${path}" ]; then
