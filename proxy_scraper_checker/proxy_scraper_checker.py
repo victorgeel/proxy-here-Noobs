@@ -388,8 +388,8 @@ class ProxyScraperChecker:
         self.save_proxies()
 
         logger.info(
-            " လိုချင်တာတွေ့ရဲ့လား "
-            " တွေ့ရင်လစ်တော့လေ "
+            " 🟢Victor Geek🟢 "
+            " ⛔ He is Noob ⛔ "
         )
 
     def get_sorted_proxies(self) -> Dict[ProxyType, List[Proxy]]:
