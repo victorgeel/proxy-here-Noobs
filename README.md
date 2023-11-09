@@ -29,13 +29,29 @@ To use `proxy-scraper-checker` in Termux, knowledge of the Unix command-line int
 - `ဒုတိယ cmd` သူက ပို အဆင်ပြေတယ်:
   ```bash
   cd /data/data/com.termux/files/home/proxy-here-Noobs && sh start-termux.sh
-  ```
-- Socks5 proxy များ
-- proxies
+## 💚ရလာတဲ့ proxies ဖိုင်တွေကို ဖွင့်ဖတ်ရန်
+
+- 💜 Socks5 proxy များ
+- 🩵 proxies
    ```
    vim ~/proxy-here-Noobs/proxies/socks5.txt
-- proxies_geolocation
+- 🩵 proxies_geolocation
   ```
+  vim ~/proxy-here-Noobs/proxies_geolocation/socks5.txt
+
+- 💜 Http proxy များ
+- 🩵 proxies
+   ```
+
+  vim ~/proxy-here-Noobs/proxies/http.txt
+
+- 🩵 proxies_geolocation
+   ```
+  vim ~/proxy-here-Noobs/proxies_geolocation/http.txt
+
+## အရှင်းဆုံး ရေးထားပါသည်
+  
+  
   
   
 
