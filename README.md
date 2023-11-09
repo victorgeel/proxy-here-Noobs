@@ -34,6 +34,8 @@ To use `proxy-scraper-checker` in Termux, knowledge of the Unix command-line int
 - proxies
    ```
    vim ~/proxy-here-Noobs/proxies/socks5.txt
-- 
+- proxies_geolocation
+  ```
+  
   
 
