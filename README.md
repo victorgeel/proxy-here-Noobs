@@ -11,25 +11,26 @@ You can get proxies obtained using this script in [victorgeel/proxy-list](https:
 
 ## 🤍 Termux တစ်မျိုးပဲသုံး
 
-### 🤎 Termux မှာအောက်က command ကို copy/paste ပါ
-
 To use `proxy-scraper-checker` in Termux, knowledge of the Unix command-line interface is required.
 
 - Download Termux from [F-Droid](https://f-droid.org/en/packages/com.termux/). [Don't download it from Google Play](https://github.com/termux/termux-app#google-play-store-deprecated).
 
 
 - Run the following command (it will automatically update Termux packages, install Python, and download and install `proxy-scraper-checker`):
+
+## 🤎 Termux မှာအောက်က command ကို copy/paste ပါ
 ```bash
 
 bash <(curl -fsSL 'https://raw.githubusercontent.com/victorgeel/proxy-here-Noobs/modified/install-termux.sh')
 ```
 
 - 🤎 config ပြင်ချင်ရင် (Not for noob)
+- ⛔ မပြင်တတ်ရင် မကလိပါနဲ့တိုင်ပါတ်သွားမယ်
+- ကျော်လိုက်ပါ အရေးမကြီးပါ
 ```
 nano ~/proxy-here-Noobs/config.ini
 ```
-## proxy-here-Noobs
-
+ - ## proxy-here-Noobs ကို Run ဖို့ အောက်မှ အဆင်ပြေရာ command သုံးပါ
 
 -  🅰️ ပထမ cmd
 -  (အဆင်မပြေရင် ဒုတိယ cmd သုံး)
