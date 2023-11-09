@@ -7,7 +7,7 @@
 HTTP, SOCKS4, SOCKS5 proxies scraper and checker.
 
 
-You can get proxies obtained using this script in [victorgeel/proxy-list](https://github.com/victorgeel/proxy-list-update).
+You can get proxies obtained using this script in [victorgeel/proxy-list](https://github.com/monosans/proxy-list).
 
 ## 🤍 Termux တစ်မျိုးပဲသုံး
 
