@@ -388,7 +388,8 @@ class ProxyScraperChecker:
         self.save_proxies()
 
         logger.info(
-            🟢" I am Victor Geek "🟢
+           
+            "🟢I am Victor Geek🟢 "
             " ⛔ I am Noob ⛔ "
         )
 
